@@ -1,6 +1,7 @@
 # ClassCollaborationRepo
 name roll
-This repository  created for an academic task to understand .
+This repository  created for an academic task to understand .more clear
+
 
 ## Purpose of This Repo
 The main purpose of this repository is to practice:
