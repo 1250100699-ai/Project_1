@@ -2,7 +2,7 @@
 
 This repository  created for an academic task to understand .
 
-## Purpose of This Repository
+## Purpose of This Repo
 The main purpose of this repository is to practice:
 - Creating a GitHub repository
 - Adding collaborators
