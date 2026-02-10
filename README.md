@@ -26,6 +26,8 @@ GitHub keeps a complete history of all changes made by different users.
 ## What We Learned
 Through this repository, we learned:
 - How commits save changes
+- right commint saves change
+- 
 - How collaborators work on a shared project
 - How GitHub helps manage team projects efficiently
 
