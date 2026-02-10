@@ -1,7 +1,6 @@
 # ClassCollaborationRepo
 
-This repository is created for an academic task to understand how GitHub works for
-version control and team collaboration.
+This repository  created for an academic task to understand .
 
 ## Purpose of This Repository
 The main purpose of this repository is to practice:
