@@ -6,6 +6,7 @@ This repository  created for an academic task to understand
 The main purpose of this repository is to practice:
 - Creating a GitHub repository
 - Adding collaborators
+- 5 collaborators added
 - Making commits and tracking changes
 - Working together on the same file
 
